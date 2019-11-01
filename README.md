@@ -1,5 +1,5 @@
 # primary-blog
-egg.js框架的搭建，已经项目的开发
+egg.js框架的搭建，以及项目的开发
 # shop
 
 
